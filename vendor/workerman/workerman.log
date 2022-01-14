@@ -1,0 +1,1899 @@
+2021-09-13 10:12:37 pid:4206 Workerman[start.php] restart 
+2021-09-13 10:12:37 pid:4206 Workerman[start.php] is stopping ...
+2021-09-13 10:12:37 pid:4206 Workerman[start.php] stop success
+2021-09-13 11:07:13 pid:3213 Workerman[start.php] start in DEBUG mode
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3218] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3219] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3220] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3221] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3223] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3225] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3224] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3226] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3227] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3228] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3229] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3230] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3231] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3232] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3233] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3234] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3236] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3235] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3237] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3238] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3240] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3239] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3241] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3243] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3242] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3244] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3246] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3248] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3247] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3245] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3249] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3250] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3251] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3252] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3255] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3253] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3254] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3257] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3256] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3259] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3258] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3260] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3261] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3262] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3263] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3264] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3266] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3265] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3267] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3268] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3269] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3270] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3271] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3272] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3273] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3274] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3275] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3276] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3278] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3277] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3279] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3280] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3281] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3284] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3282] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3283] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3285] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3286] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3289] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3290] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3287] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3288] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3292] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3291] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3295] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3293] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3294] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3296] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3297] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3298] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3299] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3300] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3302] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3301] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3303] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3304] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3305] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3308] exit with status 65280
+2021-09-13 11:07:13 pid:3213 worker[YourAppGateway:3306] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3307] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3309] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3310] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3311] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3312] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3313] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3315] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3314] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3316] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3318] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3317] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3319] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3321] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3320] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3322] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3323] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3324] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3325] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3326] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3327] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3328] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3329] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3330] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3331] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3332] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3334] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3333] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3335] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3336] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3337] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3338] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3339] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3340] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3341] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3342] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3345] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3343] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3346] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3344] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3348] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3347] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3349] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3350] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3352] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3353] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3351] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3354] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3355] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3357] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3356] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3358] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3359] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3360] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3361] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3362] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3363] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3364] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3365] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3366] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3367] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3368] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3369] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3371] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3370] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3374] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3372] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3373] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3376] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3375] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3377] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3379] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3378] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3380] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3381] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3382] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3383] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3384] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3385] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3387] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3386] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3388] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3389] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3390] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3392] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3391] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3393] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3397] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3394] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3395] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3396] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3398] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3400] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3402] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3399] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3404] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3405] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3401] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3403] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3406] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3408] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3407] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3409] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3410] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3411] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3414] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3412] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3416] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3413] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3415] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3419] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3418] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3421] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3417] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3420] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3423] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3422] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3424] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3425] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3426] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3428] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3429] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3430] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3427] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3431] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3434] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3432] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3433] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3435] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3437] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3436] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3438] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3441] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3439] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3440] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3442] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3443] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3446] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3444] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3445] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3447] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3448] exit with status 65280
+2021-09-13 11:07:14 pid:3213 Workerman[start.php] stopping ...
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3449] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3450] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3451] exit with status 65280
+2021-09-13 11:07:14 pid:3213 worker[YourAppGateway:3452] exit with status 65280
+2021-09-13 11:07:14 pid:3213 Workerman[start.php] has been stopped
+2021-09-13 11:07:45 pid:3539 Workerman[start.php] start in DEBUG mode
+2021-09-13 11:10:03 pid:3539 Workerman[start.php] stopping ...
+2021-09-13 11:10:03 pid:3539 Workerman[start.php] has been stopped
+2021-11-15 13:29:10 pid:5792 Workerman[start.php] restart 
+2021-11-15 13:29:10 pid:5792 Workerman[start.php] is stopping ...
+2021-11-15 13:29:10 pid:5792 Workerman[start.php] stop success
+2021-11-15 13:29:49 pid:5792 Workerman[start.php] stopping ...
+2021-11-15 13:29:49 pid:5792 Workerman[start.php] has been stopped
+2021-11-15 13:29:50 pid:5874 Workerman[start.php] restart 
+2021-11-15 13:29:50 pid:5874 Workerman[start.php] is stopping ...
+2021-11-15 13:29:50 pid:5874 Workerman[start.php] stop success
+2021-11-15 13:34:58 pid:6575 Workerman[start.php] status 
+2021-11-15 13:35:12 pid:5885 Bad request for Register service. Request info(IP:192.168.3.75, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 13:35:12 pid:5885 Bad request for Register service. Request info(IP:192.168.3.75, Request Buffer:GET /favicon.ico HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 13:59:24 pid:9690 Workerman[start.php] status 
+2021-11-15 14:14:34 pid:11590 Workerman[start.php] status 
+2021-11-15 14:22:54 pid:12620 Workerman[start.php] restart 
+2021-11-15 14:22:54 pid:12620 Workerman[start.php] is stopping ...
+2021-11-15 14:22:54 pid:5876 Workerman[start.php] stopping ...
+2021-11-15 14:22:54 pid:5876 Workerman[start.php] has been stopped
+2021-11-15 14:22:54 pid:12620 Workerman[start.php] stop success
+2021-11-15 14:23:09 pid:12629 Register auth timeout (192.168.3.75). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:23:52 pid:12629 Register auth timeout (192.168.3.75). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:24:21 pid:12629 Bad request for Register service. Request info(IP:192.168.3.75, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:24:22 pid:12629 Bad request for Register service. Request info(IP:192.168.3.75, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:24:23 pid:12629 Bad request for Register service. Request info(IP:192.168.3.75, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:25:44 pid:12629 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:dsa). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:26:05 pid:12629 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:asd). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:26:13 pid:12629 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:1232). See http://doc2.workerman.net/register-auth-timeout.html
+2021-11-15 14:26:49 pid:12620 Workerman[start.php] stopping ...
+2021-11-15 14:26:49 pid:12620 Workerman[start.php] has been stopped
+2021-11-15 14:26:51 pid:13158 Workerman[start.php] restart 
+2021-11-15 14:26:51 pid:13158 Workerman[start.php] is stopping ...
+2021-11-15 14:26:51 pid:13158 Workerman[start.php] stop success
+2021-11-15 14:26:54 pid:13165 Error: Call to undefined method Workerman\Connection\TcpConnection::getRemoteHost() in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php:366
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php(238): Workerman\Protocols\Ws::sendHandshake(Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Ws::encode('Hello 7f0000010...', Object(Workerman\Connection\TcpConnection))
+#2 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(578): Workerman\Connection\TcpConnection->send('Hello 7f0000010...')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#12 {main}
+2021-11-15 14:26:54 pid:13165 Worker[13165] process terminated
+2021-11-15 14:26:54 pid:13164 Error: Call to undefined method Workerman\Connection\TcpConnection::getRemoteHost() in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php:366
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php(238): Workerman\Protocols\Ws::sendHandshake(Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Ws::encode('Hello 7f0000010...', Object(Workerman\Connection\TcpConnection))
+#2 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(578): Workerman\Connection\TcpConnection->send('Hello 7f0000010...')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#12 {main}
+2021-11-15 14:26:54 pid:13164 Worker[13164] process terminated
+2021-11-15 14:26:54 pid:13158 worker[YourAppGateway:13165] exit with status 64000
+2021-11-15 14:26:54 pid:13163 Error: Call to undefined method Workerman\Connection\TcpConnection::getRemoteHost() in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php:366
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php(238): Workerman\Protocols\Ws::sendHandshake(Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Ws::encode('7f0000010b55000...', Object(Workerman\Connection\TcpConnection))
+#2 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(614): Workerman\Connection\TcpConnection->send('7f0000010b55000...', false)
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#12 {main}
+2021-11-15 14:26:54 pid:13163 Worker[13163] process terminated
+2021-11-15 14:26:54 pid:13158 worker[YourAppGateway:13164] exit with status 64000
+2021-11-15 14:26:54 pid:13166 Error: Call to undefined method Workerman\Connection\TcpConnection::getRemoteHost() in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php:366
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php(238): Workerman\Protocols\Ws::sendHandshake(Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Ws::encode('7f0000010b54000...', Object(Workerman\Connection\TcpConnection))
+#2 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(614): Workerman\Connection\TcpConnection->send('7f0000010b54000...', false)
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#12 {main}
+2021-11-15 14:26:54 pid:13166 Worker[13166] process terminated
+2021-11-15 14:26:54 pid:13158 worker[YourAppGateway:13163] exit with status 64000
+2021-11-15 14:26:54 pid:13158 worker[YourAppGateway:13166] exit with status 64000
+2021-11-15 14:26:54 pid:13176 Error: Call to undefined method Workerman\Connection\TcpConnection::getRemoteHost() in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php:366
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php(238): Workerman\Protocols\Ws::sendHandshake(Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Ws::encode('Hello 7f0000010...', Object(Workerman\Connection\TcpConnection))
+#2 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(578): Workerman\Connection\TcpConnection->send('Hello 7f0000010...')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1692): Workerman\Worker::forkWorkers()
+#11 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1641): Workerman\Worker::monitorWorkersForLinux()
+#12 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(544): Workerman\Worker::monitorWorkers()
+#13 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#14 {main}
+2021-11-15 14:26:54 pid:13176 Worker[13176] process terminated
+2021-11-15 14:26:54 pid:13158 worker[YourAppGateway:13176] exit with status 64000
+2021-11-15 14:27:02 pid:13177 Error: Call to undefined method Workerman\Connection\TcpConnection::getRemoteHost() in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php:366
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Ws.php(238): Workerman\Protocols\Ws::sendHandshake(Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Ws::encode('Hello 7f0000010...', Object(Workerman\Connection\TcpConnection))
+#2 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(578): Workerman\Connection\TcpConnection->send('Hello 7f0000010...')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1692): Workerman\Worker::forkWorkers()
+#11 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1641): Workerman\Worker::monitorWorkersForLinux()
+#12 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(544): Workerman\Worker::monitorWorkers()
+#13 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#14 {main}
+2021-11-15 14:27:02 pid:13177 Worker[13177] process terminated
+2021-11-15 14:27:02 pid:13158 worker[YourAppGateway:13177] exit with status 64000
+2021-11-15 14:31:37 pid:13158 Workerman[start.php] stopping ...
+2021-11-15 14:31:37 pid:13158 Workerman[start.php] has been stopped
+2021-11-15 14:31:39 pid:13767 Workerman[start.php] restart 
+2021-11-15 14:31:39 pid:13767 Workerman[start.php] is stopping ...
+2021-11-15 14:31:39 pid:13767 Workerman[start.php] stop success
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13772] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13774] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13775] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13773] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13777] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13779] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13780] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13778] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13781] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13783] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13782] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13784] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13785] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13789] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13786] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13787] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13791] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13788] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13790] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13792] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13793] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13794] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13795] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13796] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13797] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13799] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13798] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13800] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13801] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13802] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13805] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13803] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13806] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13804] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13807] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13808] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13810] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13811] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13812] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13809] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13814] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13813] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13815] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13816] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13818] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13817] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13819] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13821] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13820] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13822] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13823] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13824] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13825] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13826] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13829] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13827] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13830] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13828] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13831] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13833] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13832] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13834] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13836] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13835] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13837] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13838] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13839] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13841] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13842] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13840] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13843] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13844] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13845] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13846] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13847] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13848] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13850] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13851] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13849] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13852] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13853] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13855] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13854] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13856] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13858] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13859] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13861] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13860] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13862] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13865] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13863] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13864] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13866] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13867] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13868] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13869] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13870] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13872] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13871] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13873] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13874] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13876] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13875] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13877] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13878] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13879] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13882] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13880] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13885] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13881] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13883] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13886] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13884] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13887] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13889] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13890] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13888] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13891] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13892] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13893] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13894] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13895] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13897] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13899] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13896] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13898] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13901] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13902] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13900] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13903] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13906] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13904] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13905] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13909] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13908] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13907] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13910] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13911] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13917] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13914] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13915] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13918] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13920] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13916] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13921] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13919] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13922] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13923] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13925] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13924] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13926] exit with status 65280
+2021-11-15 14:31:39 pid:13767 worker[YourAppGateway:13928] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13929] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13927] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13930] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13931] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13932] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13933] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13936] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13934] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13938] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13935] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13939] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13937] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13940] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13941] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13942] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13943] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13944] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13945] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13946] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13947] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13948] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13949] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13950] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13952] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13951] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13955] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13953] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13954] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13957] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13956] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13958] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13960] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13959] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13961] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13962] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13963] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13964] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13965] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13967] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13968] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13966] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13969] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13971] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13970] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13972] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13973] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13974] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13975] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13976] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13977] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13978] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13979] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13981] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13980] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13982] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13983] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13984] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13987] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13985] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13986] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13988] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13989] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13990] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13991] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13992] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13993] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13994] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13996] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13995] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13997] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13998] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:13999] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14000] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14001] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14003] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14002] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14004] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14005] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14006] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14007] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14008] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14009] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14010] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14011] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14013] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14012] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14016] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14014] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14015] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14017] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14018] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14020] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14019] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14021] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14023] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14022] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14024] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14025] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14026] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14027] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14029] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14030] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14028] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14032] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14031] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14033] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14034] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14036] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14035] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14037] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14039] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14038] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14042] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14040] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14041] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14043] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14044] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14045] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14047] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14046] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14048] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14049] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14050] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14051] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14052] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14054] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14053] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14055] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14056] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14057] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14058] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14059] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14060] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14061] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14064] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14062] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14065] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14063] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14066] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14068] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14067] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14069] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14070] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14071] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14073] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14072] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14076] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14074] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14075] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14077] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14078] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14079] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14080] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14082] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14081] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14083] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14084] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14085] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14087] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14086] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14088] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14091] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14089] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14093] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14090] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14092] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14094] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14095] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14098] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14096] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14097] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14100] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14099] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14101] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14102] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14103] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14104] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14105] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14107] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14106] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14108] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14110] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14109] exit with status 65280
+2021-11-15 14:31:40 pid:13767 Workerman[start.php] stopping ...
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14111] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14113] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14112] exit with status 65280
+2021-11-15 14:31:40 pid:13767 worker[YourAppGateway:14114] exit with status 65280
+2021-11-15 14:31:40 pid:13767 Workerman[start.php] has been stopped
+2021-11-15 14:31:46 pid:14126 Workerman[start.php] restart 
+2021-11-15 14:31:46 pid:14126 Workerman[start.php] is stopping ...
+2021-11-15 14:31:46 pid:14126 Workerman[start.php] stop success
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14132] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14133] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14131] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14134] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14136] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14138] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14139] exit with status 65280
+2021-11-15 14:31:46 pid:14126 worker[YourAppGateway:14140] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14137] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14141] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14142] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14143] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14144] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14146] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14147] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14145] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14150] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14149] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14148] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14152] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14151] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14155] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14153] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14154] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14157] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14156] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14158] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14159] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14160] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14161] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14163] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14162] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14164] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14165] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14166] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14167] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14168] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14172] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14170] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14171] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14173] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14174] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14177] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14176] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14175] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14178] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14179] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14182] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14180] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14181] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14183] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14184] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14185] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14186] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14187] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14188] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14190] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14189] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14193] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14191] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14192] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14194] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14195] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14196] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14198] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14199] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14197] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14200] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14202] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14201] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14203] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14205] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14204] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14206] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14207] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14208] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14209] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14210] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14211] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14212] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14214] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14213] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14215] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14216] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14217] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14218] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14220] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14219] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14222] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14221] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14223] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14225] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14224] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14226] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14227] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14228] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14230] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14229] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14233] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14231] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14232] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14235] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14234] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14236] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14238] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14240] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14239] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14237] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14241] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14242] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14245] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14243] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14246] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14244] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14247] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14249] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14248] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14250] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14251] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14252] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14253] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14254] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14255] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14256] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14258] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14257] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14259] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14261] exit with status 65280
+2021-11-15 14:31:47 pid:14126 Workerman[start.php] stopping ...
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14260] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14262] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14264] exit with status 65280
+2021-11-15 14:31:47 pid:14126 worker[YourAppGateway:14263] exit with status 65280
+2021-11-15 14:31:47 pid:14126 Workerman[start.php] has been stopped
+2021-11-15 14:32:21 pid:14352 Workerman[start.php] restart 
+2021-11-15 14:32:21 pid:14352 Workerman[start.php] is stopping ...
+2021-11-15 14:32:21 pid:14352 Workerman[start.php] stop success
+2021-11-15 15:30:00 pid:14352 Workerman[start.php] stopping ...
+2021-11-15 15:30:00 pid:14352 Workerman[start.php] has been stopped
+2021-11-15 15:30:01 pid:21675 Workerman[start.php] restart 
+2021-11-15 15:30:01 pid:21675 Workerman[start.php] is stopping ...
+2021-11-15 15:30:01 pid:21675 Workerman[start.php] stop success
+2021-11-15 16:03:55 pid:21675 Workerman[start.php] stopping ...
+2021-11-15 16:03:55 pid:21675 Workerman[start.php] has been stopped
+2021-11-15 16:03:56 pid:25900 Workerman[start.php] restart 
+2021-11-15 16:03:56 pid:25900 Workerman[start.php] is stopping ...
+2021-11-15 16:03:56 pid:25900 Workerman[start.php] stop success
+2021-11-15 16:04:05 pid:25906 Exception: You can't send(array) to client, you need to convert it to a string.  in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Websocket.php:236
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(614): Workerman\Connection\TcpConnection->send(Array, false)
+#2 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#5 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#11 {main}
+2021-11-15 16:04:05 pid:25906 Worker[25906] process terminated
+2021-11-15 16:04:05 pid:25900 worker[YourAppGateway:25906] exit with status 64000
+2021-11-15 16:04:07 pid:25907 Exception: You can't send(array) to client, you need to convert it to a string.  in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Websocket.php:236
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(614): Workerman\Connection\TcpConnection->send(Array, false)
+#2 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#5 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#11 {main}
+2021-11-15 16:04:07 pid:25907 Worker[25907] process terminated
+2021-11-15 16:04:07 pid:25900 worker[YourAppGateway:25907] exit with status 64000
+2021-11-15 16:04:10 pid:25940 Exception: You can't send(array) to client, you need to convert it to a string.  in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Websocket.php:236
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(614): Workerman\Connection\TcpConnection->send(Array, false)
+#2 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#5 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1692): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1641): Workerman\Worker::monitorWorkersForLinux()
+#11 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(544): Workerman\Worker::monitorWorkers()
+#12 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#13 {main}
+2021-11-15 16:04:10 pid:25940 Worker[25940] process terminated
+2021-11-15 16:04:10 pid:25900 worker[YourAppGateway:25940] exit with status 64000
+2021-11-15 16:04:15 pid:25945 Exception: You can't send(array) to client, you need to convert it to a string.  in /www/wwwroot/yh/gateway/vendor/workerman/workerman/Protocols/Websocket.php:236
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(614): Workerman\Connection\TcpConnection->send(Array, false)
+#2 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(637): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#5 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1555): GatewayWorker\Gateway->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1385): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1359): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1692): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1641): Workerman\Worker::monitorWorkersForLinux()
+#11 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(544): Workerman\Worker::monitorWorkers()
+#12 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#13 {main}
+2021-11-15 16:04:15 pid:25945 Worker[25945] process terminated
+2021-11-15 16:04:15 pid:25900 worker[YourAppGateway:25945] exit with status 64000
+2021-11-15 16:05:47 pid:25900 Workerman[start.php] stopping ...
+2021-11-15 16:05:47 pid:25900 Workerman[start.php] has been stopped
+2021-11-15 16:05:49 pid:26145 Workerman[start.php] restart 
+2021-11-15 16:05:49 pid:26145 Workerman[start.php] is stopping ...
+2021-11-15 16:05:49 pid:26145 Workerman[start.php] stop success
+2021-11-15 16:37:48 pid:26145 Workerman[start.php] stopping ...
+2021-11-15 16:37:48 pid:26145 Workerman[start.php] has been stopped
+2021-11-15 16:37:49 pid:30105 Workerman[start.php] restart 
+2021-11-15 16:37:49 pid:30105 Workerman[start.php] is stopping ...
+2021-11-15 16:37:49 pid:30105 Workerman[start.php] stop success
+2021-11-15 16:38:13 pid:30105 Workerman[start.php] stopping ...
+2021-11-15 16:38:13 pid:30105 Workerman[start.php] has been stopped
+2021-11-15 16:38:14 pid:30174 Workerman[start.php] restart 
+2021-11-15 16:38:14 pid:30174 Workerman[start.php] is stopping ...
+2021-11-15 16:38:14 pid:30174 Workerman[start.php] stop success
+2021-11-15 16:39:45 pid:30174 Workerman[start.php] stopping ...
+2021-11-15 16:39:45 pid:30174 Workerman[start.php] has been stopped
+2021-11-15 16:39:45 pid:30362 Workerman[start.php] restart 
+2021-11-15 16:39:45 pid:30362 Workerman[start.php] is stopping ...
+2021-11-15 16:39:45 pid:30362 Workerman[start.php] stop success
+2021-11-15 16:40:11 pid:30362 Workerman[start.php] stopping ...
+2021-11-15 16:40:11 pid:30362 Workerman[start.php] has been stopped
+2021-11-15 16:40:11 pid:30437 Workerman[start.php] restart 
+2021-11-15 16:40:11 pid:30437 Workerman[start.php] is stopping ...
+2021-11-15 16:40:11 pid:30437 Workerman[start.php] stop success
+2021-11-15 16:40:32 pid:30437 Workerman[start.php] stopping ...
+2021-11-15 16:40:32 pid:30437 Workerman[start.php] has been stopped
+2021-11-15 16:40:33 pid:30487 Workerman[start.php] restart 
+2021-11-15 16:40:33 pid:30487 Workerman[start.php] is stopping ...
+2021-11-15 16:40:33 pid:30487 Workerman[start.php] stop success
+2021-11-15 16:41:10 pid:30487 Workerman[start.php] stopping ...
+2021-11-15 16:41:10 pid:30487 Workerman[start.php] has been stopped
+2021-11-15 16:41:12 pid:30582 Workerman[start.php] restart 
+2021-11-15 16:41:12 pid:30582 Workerman[start.php] is stopping ...
+2021-11-15 16:41:12 pid:30582 Workerman[start.php] stop success
+2021-11-15 16:42:41 pid:30582 Workerman[start.php] stopping ...
+2021-11-15 16:42:41 pid:30582 Workerman[start.php] has been stopped
+2021-11-15 16:42:42 pid:30777 Workerman[start.php] restart 
+2021-11-15 16:42:42 pid:30777 Workerman[start.php] is stopping ...
+2021-11-15 16:42:42 pid:30777 Workerman[start.php] stop success
+2021-11-15 16:47:33 pid:30777 Workerman[start.php] stopping ...
+2021-11-15 16:47:33 pid:30777 Workerman[start.php] has been stopped
+2021-11-15 16:47:34 pid:31384 Workerman[start.php] restart 
+2021-11-15 16:47:34 pid:31384 Workerman[start.php] is stopping ...
+2021-11-15 16:47:34 pid:31384 Workerman[start.php] stop success
+2021-11-15 16:54:13 pid:31384 Workerman[start.php] stopping ...
+2021-11-15 16:54:13 pid:31384 Workerman[start.php] has been stopped
+2021-11-15 16:54:14 pid:32226 Workerman[start.php] restart 
+2021-11-15 16:54:14 pid:32226 Workerman[start.php] is stopping ...
+2021-11-15 16:54:14 pid:32226 Workerman[start.php] stop success
+2021-11-15 16:55:35 pid:32226 Workerman[start.php] stopping ...
+2021-11-15 16:55:35 pid:32226 Workerman[start.php] has been stopped
+2021-11-15 16:55:36 pid:32397 Workerman[start.php] restart 
+2021-11-15 16:55:36 pid:32397 Workerman[start.php] is stopping ...
+2021-11-15 16:55:36 pid:32397 Workerman[start.php] stop success
+2021-11-15 17:00:29 pid:32397 Workerman[start.php] stopping ...
+2021-11-15 17:00:29 pid:32397 Workerman[start.php] has been stopped
+2021-11-15 17:00:30 pid:33011 Workerman[start.php] restart 
+2021-11-15 17:00:30 pid:33011 Workerman[start.php] is stopping ...
+2021-11-15 17:00:30 pid:33011 Workerman[start.php] stop success
+2021-11-15 17:01:20 pid:33011 Workerman[start.php] stopping ...
+2021-11-15 17:01:20 pid:33011 Workerman[start.php] has been stopped
+2021-11-15 17:01:21 pid:33137 Workerman[start.php] restart 
+2021-11-15 17:01:21 pid:33137 Workerman[start.php] is stopping ...
+2021-11-15 17:01:21 pid:33137 Workerman[start.php] stop success
+2021-11-15 17:02:06 pid:33137 Workerman[start.php] stopping ...
+2021-11-15 17:02:06 pid:33137 Workerman[start.php] has been stopped
+2021-11-15 17:02:06 pid:33248 Workerman[start.php] restart 
+2021-11-15 17:02:06 pid:33248 Workerman[start.php] is stopping ...
+2021-11-15 17:02:06 pid:33248 Workerman[start.php] stop success
+2021-11-15 17:12:14 pid:33248 Workerman[start.php] stopping ...
+2021-11-15 17:12:15 pid:33248 Workerman[start.php] has been stopped
+2021-11-15 17:12:15 pid:34516 Workerman[start.php] restart 
+2021-11-15 17:12:15 pid:34516 Workerman[start.php] is stopping ...
+2021-11-15 17:12:15 pid:34516 Workerman[start.php] stop success
+2021-11-15 17:12:58 pid:34516 Workerman[start.php] stopping ...
+2021-11-15 17:12:58 pid:34516 Workerman[start.php] has been stopped
+2021-11-15 17:12:59 pid:34604 Workerman[start.php] restart 
+2021-11-15 17:12:59 pid:34604 Workerman[start.php] is stopping ...
+2021-11-15 17:12:59 pid:34604 Workerman[start.php] stop success
+2021-11-15 17:15:03 pid:34604 Workerman[start.php] stopping ...
+2021-11-15 17:15:03 pid:34604 Workerman[start.php] has been stopped
+2021-11-15 17:15:03 pid:34881 Workerman[start.php] restart 
+2021-11-15 17:15:03 pid:34881 Workerman[start.php] is stopping ...
+2021-11-15 17:15:03 pid:34881 Workerman[start.php] stop success
+2021-11-15 17:15:32 pid:34881 Workerman[start.php] stopping ...
+2021-11-15 17:15:32 pid:34881 Workerman[start.php] has been stopped
+2021-11-15 17:15:33 pid:34943 Workerman[start.php] restart 
+2021-11-15 17:15:33 pid:34943 Workerman[start.php] is stopping ...
+2021-11-15 17:15:33 pid:34943 Workerman[start.php] stop success
+2021-11-15 17:17:12 pid:34943 Workerman[start.php] stopping ...
+2021-11-15 17:17:12 pid:34943 Workerman[start.php] has been stopped
+2021-11-15 17:17:12 pid:35159 Workerman[start.php] restart 
+2021-11-15 17:17:12 pid:35159 Workerman[start.php] is stopping ...
+2021-11-15 17:17:12 pid:35159 Workerman[start.php] stop success
+2021-11-15 17:18:21 pid:35159 Workerman[start.php] stopping ...
+2021-11-15 17:18:21 pid:35159 Workerman[start.php] has been stopped
+2021-11-15 17:18:22 pid:35305 Workerman[start.php] restart 
+2021-11-15 17:18:22 pid:35305 Workerman[start.php] is stopping ...
+2021-11-15 17:18:22 pid:35305 Workerman[start.php] stop success
+2021-11-15 17:18:42 pid:35305 Workerman[start.php] stopping ...
+2021-11-15 17:18:42 pid:35305 Workerman[start.php] has been stopped
+2021-11-15 17:18:44 pid:35353 Workerman[start.php] restart 
+2021-11-15 17:18:44 pid:35353 Workerman[start.php] is stopping ...
+2021-11-15 17:18:44 pid:35353 Workerman[start.php] stop success
+2021-11-15 17:23:13 pid:35353 Workerman[start.php] stopping ...
+2021-11-15 17:23:13 pid:35353 Workerman[start.php] has been stopped
+2021-11-15 17:23:13 pid:35927 Workerman[start.php] restart 
+2021-11-15 17:23:13 pid:35927 Workerman[start.php] is stopping ...
+2021-11-15 17:23:13 pid:35927 Workerman[start.php] stop success
+2021-11-15 17:23:48 pid:35927 Workerman[start.php] stopping ...
+2021-11-15 17:23:48 pid:35927 Workerman[start.php] has been stopped
+2021-11-15 17:23:50 pid:35999 Workerman[start.php] restart 
+2021-11-15 17:23:50 pid:35999 Workerman[start.php] is stopping ...
+2021-11-15 17:23:50 pid:35999 Workerman[start.php] stop success
+2021-11-15 17:24:19 pid:35999 Workerman[start.php] stopping ...
+2021-11-15 17:24:20 pid:35999 Workerman[start.php] has been stopped
+2021-11-15 17:24:20 pid:36077 Workerman[start.php] restart 
+2021-11-15 17:24:20 pid:36077 Workerman[start.php] is stopping ...
+2021-11-15 17:24:20 pid:36077 Workerman[start.php] stop success
+2021-11-15 17:24:57 pid:36077 Workerman[start.php] stopping ...
+2021-11-15 17:24:57 pid:36077 Workerman[start.php] has been stopped
+2021-11-15 17:24:57 pid:36149 Workerman[start.php] restart 
+2021-11-15 17:24:57 pid:36149 Workerman[start.php] is stopping ...
+2021-11-15 17:24:57 pid:36149 Workerman[start.php] stop success
+2021-11-15 17:25:58 pid:36149 Workerman[start.php] stopping ...
+2021-11-15 17:25:58 pid:36149 Workerman[start.php] has been stopped
+2021-11-15 17:25:59 pid:36280 Workerman[start.php] restart 
+2021-11-15 17:25:59 pid:36280 Workerman[start.php] is stopping ...
+2021-11-15 17:25:59 pid:36280 Workerman[start.php] stop success
+2021-11-15 17:26:40 pid:36280 Workerman[start.php] stopping ...
+2021-11-15 17:26:40 pid:36280 Workerman[start.php] has been stopped
+2021-11-15 17:26:41 pid:36377 Workerman[start.php] restart 
+2021-11-15 17:26:41 pid:36377 Workerman[start.php] is stopping ...
+2021-11-15 17:26:41 pid:36377 Workerman[start.php] stop success
+2021-11-15 17:28:33 pid:36377 Workerman[start.php] stopping ...
+2021-11-15 17:28:33 pid:36377 Workerman[start.php] has been stopped
+2021-11-15 17:28:33 pid:36613 Workerman[start.php] restart 
+2021-11-15 17:28:33 pid:36613 Workerman[start.php] is stopping ...
+2021-11-15 17:28:33 pid:36613 Workerman[start.php] stop success
+2021-11-15 17:29:38 pid:36613 Workerman[start.php] stopping ...
+2021-11-15 17:29:38 pid:36613 Workerman[start.php] has been stopped
+2021-11-15 17:29:39 pid:36752 Workerman[start.php] restart 
+2021-11-15 17:29:39 pid:36752 Workerman[start.php] is stopping ...
+2021-11-15 17:29:39 pid:36752 Workerman[start.php] stop success
+2021-11-15 17:30:08 pid:36752 Workerman[start.php] stopping ...
+2021-11-15 17:30:08 pid:36752 Workerman[start.php] has been stopped
+2021-11-15 17:30:09 pid:36831 Workerman[start.php] restart 
+2021-11-15 17:30:09 pid:36831 Workerman[start.php] is stopping ...
+2021-11-15 17:30:09 pid:36831 Workerman[start.php] stop success
+2021-11-15 17:31:17 pid:36831 Workerman[start.php] stopping ...
+2021-11-15 17:31:17 pid:36831 Workerman[start.php] has been stopped
+2021-11-15 17:31:18 pid:36978 Workerman[start.php] restart 
+2021-11-15 17:31:18 pid:36978 Workerman[start.php] is stopping ...
+2021-11-15 17:31:18 pid:36978 Workerman[start.php] stop success
+2021-11-15 17:32:36 pid:36978 Workerman[start.php] stopping ...
+2021-11-15 17:32:36 pid:36978 Workerman[start.php] has been stopped
+2021-11-15 17:32:37 pid:37149 Workerman[start.php] restart 
+2021-11-15 17:32:37 pid:37149 Workerman[start.php] is stopping ...
+2021-11-15 17:32:37 pid:37149 Workerman[start.php] stop success
+2021-11-15 17:35:12 pid:37149 Workerman[start.php] stopping ...
+2021-11-15 17:35:12 pid:37149 Workerman[start.php] has been stopped
+2021-11-15 17:35:13 pid:37479 Workerman[start.php] restart 
+2021-11-15 17:35:13 pid:37479 Workerman[start.php] is stopping ...
+2021-11-15 17:35:13 pid:37479 Workerman[start.php] stop success
+2021-11-15 17:35:56 pid:37479 Workerman[start.php] stopping ...
+2021-11-15 17:35:56 pid:37479 Workerman[start.php] has been stopped
+2021-11-15 17:35:57 pid:37563 Workerman[start.php] restart 
+2021-11-15 17:35:57 pid:37563 Workerman[start.php] is stopping ...
+2021-11-15 17:35:57 pid:37563 Workerman[start.php] stop success
+2021-11-15 17:36:09 pid:37563 Workerman[start.php] stopping ...
+2021-11-15 17:36:09 pid:37563 Workerman[start.php] has been stopped
+2021-11-15 17:36:10 pid:37610 Workerman[start.php] restart 
+2021-11-15 17:36:10 pid:37610 Workerman[start.php] is stopping ...
+2021-11-15 17:36:10 pid:37610 Workerman[start.php] stop success
+2021-11-15 17:36:48 pid:37610 Workerman[start.php] stopping ...
+2021-11-15 17:36:48 pid:37610 Workerman[start.php] has been stopped
+2021-11-15 17:36:48 pid:37686 Workerman[start.php] restart 
+2021-11-15 17:36:48 pid:37686 Workerman[start.php] is stopping ...
+2021-11-15 17:36:48 pid:37686 Workerman[start.php] stop success
+2021-11-15 17:37:03 pid:37686 Workerman[start.php] stopping ...
+2021-11-15 17:37:03 pid:37686 Workerman[start.php] has been stopped
+2021-11-15 17:37:04 pid:37735 Workerman[start.php] restart 
+2021-11-15 17:37:04 pid:37735 Workerman[start.php] is stopping ...
+2021-11-15 17:37:04 pid:37735 Workerman[start.php] stop success
+2021-11-15 17:37:49 pid:37735 Workerman[start.php] stopping ...
+2021-11-15 17:37:49 pid:37735 Workerman[start.php] has been stopped
+2021-11-15 17:37:50 pid:37823 Workerman[start.php] restart 
+2021-11-15 17:37:50 pid:37823 Workerman[start.php] is stopping ...
+2021-11-15 17:37:50 pid:37823 Workerman[start.php] stop success
+2021-11-15 17:38:12 pid:37823 Workerman[start.php] stopping ...
+2021-11-15 17:38:12 pid:37823 Workerman[start.php] has been stopped
+2021-11-15 17:38:12 pid:37885 Workerman[start.php] restart 
+2021-11-15 17:38:12 pid:37885 Workerman[start.php] is stopping ...
+2021-11-15 17:38:12 pid:37885 Workerman[start.php] stop success
+2021-11-15 17:38:42 pid:37885 Workerman[start.php] stopping ...
+2021-11-15 17:38:42 pid:37885 Workerman[start.php] has been stopped
+2021-11-15 17:38:43 pid:37947 Workerman[start.php] restart 
+2021-11-15 17:38:43 pid:37947 Workerman[start.php] is stopping ...
+2021-11-15 17:38:43 pid:37947 Workerman[start.php] stop success
+2021-11-15 17:40:04 pid:37947 Workerman[start.php] stopping ...
+2021-11-15 17:40:04 pid:37947 Workerman[start.php] has been stopped
+2021-11-15 17:41:18 pid:38281 Workerman[start.php] restart 
+2021-11-15 17:41:18 pid:38281 Workerman[start.php] is stopping ...
+2021-11-15 17:41:18 pid:38281 Workerman[start.php] stop success
+2021-11-15 17:41:45 pid:38281 Workerman[start.php] stopping ...
+2021-11-15 17:41:45 pid:38281 Workerman[start.php] has been stopped
+2021-11-15 17:41:45 pid:38337 Workerman[start.php] restart 
+2021-11-15 17:41:45 pid:38337 Workerman[start.php] is stopping ...
+2021-11-15 17:41:45 pid:38337 Workerman[start.php] stop success
+2021-11-15 17:42:27 pid:38337 Workerman[start.php] stopping ...
+2021-11-15 17:42:27 pid:38337 Workerman[start.php] has been stopped
+2021-11-15 17:42:28 pid:38445 Workerman[start.php] restart 
+2021-11-15 17:42:28 pid:38445 Workerman[start.php] is stopping ...
+2021-11-15 17:42:28 pid:38445 Workerman[start.php] stop success
+2021-11-15 17:45:45 pid:38445 Workerman[start.php] stopping ...
+2021-11-15 17:45:45 pid:38445 Workerman[start.php] has been stopped
+2021-11-15 17:45:46 pid:38850 Workerman[start.php] restart 
+2021-11-15 17:45:46 pid:38850 Workerman[start.php] is stopping ...
+2021-11-15 17:45:46 pid:38850 Workerman[start.php] stop success
+2021-11-15 17:46:39 pid:38850 Workerman[start.php] stopping ...
+2021-11-15 17:46:39 pid:38850 Workerman[start.php] has been stopped
+2021-11-15 17:46:40 pid:38967 Workerman[start.php] restart 
+2021-11-15 17:46:40 pid:38967 Workerman[start.php] is stopping ...
+2021-11-15 17:46:40 pid:38967 Workerman[start.php] stop success
+2021-11-15 17:47:03 pid:38967 Workerman[start.php] stopping ...
+2021-11-15 17:47:03 pid:38967 Workerman[start.php] has been stopped
+2021-11-15 17:47:03 pid:39029 Workerman[start.php] restart 
+2021-11-15 17:47:03 pid:39029 Workerman[start.php] is stopping ...
+2021-11-15 17:47:03 pid:39029 Workerman[start.php] stop success
+2021-11-15 17:47:17 pid:39029 Workerman[start.php] stopping ...
+2021-11-15 17:47:17 pid:39029 Workerman[start.php] has been stopped
+2021-11-15 17:47:18 pid:39062 Workerman[start.php] restart 
+2021-11-15 17:47:18 pid:39062 Workerman[start.php] is stopping ...
+2021-11-15 17:47:18 pid:39062 Workerman[start.php] stop success
+2021-11-15 17:47:53 pid:39062 Workerman[start.php] stopping ...
+2021-11-15 17:47:53 pid:39062 Workerman[start.php] has been stopped
+2021-11-15 17:47:53 pid:39134 Workerman[start.php] restart 
+2021-11-15 17:47:53 pid:39134 Workerman[start.php] is stopping ...
+2021-11-15 17:47:53 pid:39134 Workerman[start.php] stop success
+2021-11-15 17:49:00 pid:39134 Workerman[start.php] stopping ...
+2021-11-15 17:49:00 pid:39134 Workerman[start.php] has been stopped
+2021-11-15 17:49:01 pid:39274 Workerman[start.php] restart 
+2021-11-15 17:49:01 pid:39274 Workerman[start.php] is stopping ...
+2021-11-15 17:49:01 pid:39274 Workerman[start.php] stop success
+2021-11-15 17:49:27 pid:39274 Workerman[start.php] stopping ...
+2021-11-15 17:49:27 pid:39274 Workerman[start.php] has been stopped
+2021-11-15 17:49:27 pid:39343 Workerman[start.php] restart 
+2021-11-15 17:49:27 pid:39343 Workerman[start.php] is stopping ...
+2021-11-15 17:49:27 pid:39343 Workerman[start.php] stop success
+2021-11-15 17:50:09 pid:39343 Workerman[start.php] stopping ...
+2021-11-15 17:50:09 pid:39343 Workerman[start.php] has been stopped
+2021-11-15 17:50:09 pid:39447 Workerman[start.php] restart 
+2021-11-15 17:50:09 pid:39447 Workerman[start.php] is stopping ...
+2021-11-15 17:50:09 pid:39447 Workerman[start.php] stop success
+2021-11-15 17:51:12 pid:39447 Workerman[start.php] stopping ...
+2021-11-15 17:51:12 pid:39447 Workerman[start.php] has been stopped
+2021-11-15 17:51:12 pid:39579 Workerman[start.php] restart 
+2021-11-15 17:51:12 pid:39579 Workerman[start.php] is stopping ...
+2021-11-15 17:51:12 pid:39579 Workerman[start.php] stop success
+2021-11-15 17:51:43 pid:39579 Workerman[start.php] stopping ...
+2021-11-15 17:51:43 pid:39579 Workerman[start.php] has been stopped
+2021-11-15 17:51:44 pid:39643 Workerman[start.php] restart 
+2021-11-15 17:51:44 pid:39643 Workerman[start.php] is stopping ...
+2021-11-15 17:51:44 pid:39643 Workerman[start.php] stop success
+2021-11-15 17:52:24 pid:39643 Workerman[start.php] stopping ...
+2021-11-15 17:52:25 pid:39643 Workerman[start.php] has been stopped
+2021-11-15 17:52:25 pid:39748 Workerman[start.php] restart 
+2021-11-15 17:52:25 pid:39748 Workerman[start.php] is stopping ...
+2021-11-15 17:52:25 pid:39748 Workerman[start.php] stop success
+2021-11-15 17:53:53 pid:39748 Workerman[start.php] stopping ...
+2021-11-15 17:53:53 pid:39748 Workerman[start.php] has been stopped
+2021-11-15 17:54:34 pid:40014 Workerman[start.php] restart 
+2021-11-15 17:54:34 pid:40014 Workerman[start.php] is stopping ...
+2021-11-15 17:54:34 pid:40014 Workerman[start.php] stop success
+2021-11-15 17:55:21 pid:40014 Workerman[start.php] stopping ...
+2021-11-15 17:55:21 pid:40014 Workerman[start.php] has been stopped
+2021-11-15 17:55:22 pid:40123 Workerman[start.php] restart 
+2021-11-15 17:55:22 pid:40123 Workerman[start.php] is stopping ...
+2021-11-15 17:55:22 pid:40123 Workerman[start.php] stop success
+2021-11-15 17:57:14 pid:40123 Workerman[start.php] stopping ...
+2021-11-15 17:57:14 pid:40123 Workerman[start.php] has been stopped
+2021-11-15 17:57:14 pid:40361 Workerman[start.php] restart 
+2021-11-15 17:57:14 pid:40361 Workerman[start.php] is stopping ...
+2021-11-15 17:57:14 pid:40361 Workerman[start.php] stop success
+2021-11-15 17:57:44 pid:40361 Workerman[start.php] stopping ...
+2021-11-15 17:57:44 pid:40361 Workerman[start.php] has been stopped
+2021-11-15 17:57:45 pid:40420 Workerman[start.php] restart 
+2021-11-15 17:57:45 pid:40420 Workerman[start.php] is stopping ...
+2021-11-15 17:57:45 pid:40420 Workerman[start.php] stop success
+2021-11-15 17:59:00 pid:40420 Workerman[start.php] stopping ...
+2021-11-15 17:59:00 pid:40420 Workerman[start.php] has been stopped
+2021-11-15 17:59:01 pid:40577 Workerman[start.php] restart 
+2021-11-15 17:59:01 pid:40577 Workerman[start.php] is stopping ...
+2021-11-15 17:59:01 pid:40577 Workerman[start.php] stop success
+2021-11-16 09:19:01 pid:3740 Workerman[start.php] restart 
+2021-11-16 09:19:01 pid:3740 Workerman[start.php] is stopping ...
+2021-11-16 09:19:01 pid:3740 Workerman[start.php] stop success
+2021-11-16 09:19:55 pid:3740 Workerman[start.php] stopping ...
+2021-11-16 09:19:55 pid:3740 Workerman[start.php] has been stopped
+2021-11-16 09:19:57 pid:3827 Workerman[start.php] restart 
+2021-11-16 09:19:57 pid:3827 Workerman[start.php] is stopping ...
+2021-11-16 09:19:57 pid:3827 Workerman[start.php] stop success
+2021-11-16 09:27:26 pid:3827 Workerman[start.php] stopping ...
+2021-11-16 09:27:26 pid:3827 Workerman[start.php] has been stopped
+2021-11-16 09:27:27 pid:5182 Workerman[start.php] restart 
+2021-11-16 09:27:27 pid:5182 Workerman[start.php] is stopping ...
+2021-11-16 09:27:27 pid:5182 Workerman[start.php] stop success
+2021-11-16 09:28:09 pid:5182 Workerman[start.php] stopping ...
+2021-11-16 09:28:09 pid:5182 Workerman[start.php] has been stopped
+2021-11-16 09:28:10 pid:5292 Workerman[start.php] restart 
+2021-11-16 09:28:10 pid:5292 Workerman[start.php] is stopping ...
+2021-11-16 09:28:10 pid:5292 Workerman[start.php] stop success
+2021-11-16 09:28:58 pid:5292 Workerman[start.php] stopping ...
+2021-11-16 09:28:58 pid:5292 Workerman[start.php] has been stopped
+2021-11-16 09:28:58 pid:5395 Workerman[start.php] restart 
+2021-11-16 09:28:58 pid:5395 Workerman[start.php] is stopping ...
+2021-11-16 09:28:58 pid:5395 Workerman[start.php] stop success
+2021-11-16 09:32:59 pid:5395 Workerman[start.php] stopping ...
+2021-11-16 09:32:59 pid:5395 Workerman[start.php] has been stopped
+2021-11-16 09:33:00 pid:5986 Workerman[start.php] restart 
+2021-11-16 09:33:00 pid:5986 Workerman[start.php] is stopping ...
+2021-11-16 09:33:00 pid:5986 Workerman[start.php] stop success
+2021-11-16 09:36:54 pid:5986 Workerman[start.php] stopping ...
+2021-11-16 09:36:54 pid:5986 Workerman[start.php] has been stopped
+2021-11-16 09:36:55 pid:6521 Workerman[start.php] restart 
+2021-11-16 09:36:55 pid:6521 Workerman[start.php] is stopping ...
+2021-11-16 09:36:55 pid:6521 Workerman[start.php] stop success
+2021-11-16 09:37:22 pid:6521 Workerman[start.php] stopping ...
+2021-11-16 09:37:22 pid:6521 Workerman[start.php] has been stopped
+2021-11-16 09:37:23 pid:6607 Workerman[start.php] restart 
+2021-11-16 09:37:23 pid:6607 Workerman[start.php] is stopping ...
+2021-11-16 09:37:23 pid:6607 Workerman[start.php] stop success
+2021-11-16 09:39:52 pid:6607 Workerman[start.php] stopping ...
+2021-11-16 09:39:52 pid:6607 Workerman[start.php] has been stopped
+2021-11-16 09:39:52 pid:6934 Workerman[start.php] restart 
+2021-11-16 09:39:52 pid:6934 Workerman[start.php] is stopping ...
+2021-11-16 09:39:52 pid:6934 Workerman[start.php] stop success
+2021-11-16 09:44:20 pid:6934 Workerman[start.php] stopping ...
+2021-11-16 09:44:20 pid:6934 Workerman[start.php] has been stopped
+2021-11-16 09:44:21 pid:7558 Workerman[start.php] restart 
+2021-11-16 09:44:21 pid:7558 Workerman[start.php] is stopping ...
+2021-11-16 09:44:21 pid:7558 Workerman[start.php] stop success
+2021-11-16 09:47:11 pid:7558 Workerman[start.php] stopping ...
+2021-11-16 09:47:11 pid:7558 Workerman[start.php] has been stopped
+2021-11-16 09:47:12 pid:7946 Workerman[start.php] restart 
+2021-11-16 09:47:12 pid:7946 Workerman[start.php] is stopping ...
+2021-11-16 09:47:12 pid:7946 Workerman[start.php] stop success
+2021-11-16 09:47:39 pid:7946 Workerman[start.php] stopping ...
+2021-11-16 09:47:39 pid:7946 Workerman[start.php] has been stopped
+2021-11-16 09:47:39 pid:8015 Workerman[start.php] restart 
+2021-11-16 09:47:39 pid:8015 Workerman[start.php] is stopping ...
+2021-11-16 09:47:39 pid:8015 Workerman[start.php] stop success
+2021-11-16 09:48:25 pid:8015 Workerman[start.php] stopping ...
+2021-11-16 09:48:25 pid:8015 Workerman[start.php] has been stopped
+2021-11-16 09:48:25 pid:8119 Workerman[start.php] restart 
+2021-11-16 09:48:25 pid:8119 Workerman[start.php] is stopping ...
+2021-11-16 09:48:25 pid:8119 Workerman[start.php] stop success
+2021-11-16 09:49:19 pid:8119 Workerman[start.php] stopping ...
+2021-11-16 09:49:19 pid:8119 Workerman[start.php] has been stopped
+2021-11-16 09:49:19 pid:8253 Workerman[start.php] restart 
+2021-11-16 09:49:19 pid:8253 Workerman[start.php] is stopping ...
+2021-11-16 09:49:19 pid:8253 Workerman[start.php] stop success
+2021-11-16 09:49:58 pid:8253 Workerman[start.php] stopping ...
+2021-11-16 09:49:58 pid:8253 Workerman[start.php] has been stopped
+2021-11-16 09:49:58 pid:8334 Workerman[start.php] restart 
+2021-11-16 09:49:58 pid:8334 Workerman[start.php] is stopping ...
+2021-11-16 09:49:58 pid:8334 Workerman[start.php] stop success
+2021-11-16 09:50:39 pid:8334 Workerman[start.php] stopping ...
+2021-11-16 09:50:39 pid:8334 Workerman[start.php] has been stopped
+2021-11-16 09:50:40 pid:8438 Workerman[start.php] restart 
+2021-11-16 09:50:40 pid:8438 Workerman[start.php] is stopping ...
+2021-11-16 09:50:40 pid:8438 Workerman[start.php] stop success
+2021-11-16 10:12:14 pid:8438 Workerman[start.php] stopping ...
+2021-11-16 10:12:14 pid:8438 Workerman[start.php] has been stopped
+2021-11-16 10:12:14 pid:11364 Workerman[start.php] restart 
+2021-11-16 10:12:14 pid:11364 Workerman[start.php] is stopping ...
+2021-11-16 10:12:14 pid:11364 Workerman[start.php] stop success
+2021-11-16 10:18:08 pid:11364 Workerman[start.php] stopping ...
+2021-11-16 10:18:08 pid:11364 Workerman[start.php] has been stopped
+2021-11-16 10:18:08 pid:12168 Workerman[start.php] restart 
+2021-11-16 10:18:08 pid:12168 Workerman[start.php] is stopping ...
+2021-11-16 10:18:08 pid:12168 Workerman[start.php] stop success
+2021-11-16 10:19:11 pid:12168 Workerman[start.php] stopping ...
+2021-11-16 10:19:11 pid:12168 Workerman[start.php] has been stopped
+2021-11-16 10:19:12 pid:12314 Workerman[start.php] restart 
+2021-11-16 10:19:12 pid:12314 Workerman[start.php] is stopping ...
+2021-11-16 10:19:12 pid:12314 Workerman[start.php] stop success
+2021-11-16 10:25:49 pid:12314 Workerman[start.php] stopping ...
+2021-11-16 10:25:49 pid:12314 Workerman[start.php] has been stopped
+2021-11-16 10:25:50 pid:13214 Workerman[start.php] restart 
+2021-11-16 10:25:50 pid:13214 Workerman[start.php] is stopping ...
+2021-11-16 10:25:50 pid:13214 Workerman[start.php] stop success
+2021-11-16 10:26:23 pid:13214 Workerman[start.php] stopping ...
+2021-11-16 10:26:23 pid:13214 Workerman[start.php] has been stopped
+2021-11-16 10:26:23 pid:13304 Workerman[start.php] restart 
+2021-11-16 10:26:23 pid:13304 Workerman[start.php] is stopping ...
+2021-11-16 10:26:23 pid:13304 Workerman[start.php] stop success
+2021-11-16 10:27:28 pid:13304 Workerman[start.php] stopping ...
+2021-11-16 10:27:28 pid:13304 Workerman[start.php] has been stopped
+2021-11-16 10:27:29 pid:13450 Workerman[start.php] restart 
+2021-11-16 10:27:29 pid:13450 Workerman[start.php] is stopping ...
+2021-11-16 10:27:29 pid:13450 Workerman[start.php] stop success
+2021-11-16 10:27:51 pid:13450 Workerman[start.php] stopping ...
+2021-11-16 10:27:51 pid:13450 Workerman[start.php] has been stopped
+2021-11-16 10:27:52 pid:13503 Workerman[start.php] restart 
+2021-11-16 10:27:52 pid:13503 Workerman[start.php] is stopping ...
+2021-11-16 10:27:52 pid:13503 Workerman[start.php] stop success
+2021-11-16 10:28:36 pid:13503 Workerman[start.php] stopping ...
+2021-11-16 10:28:36 pid:13503 Workerman[start.php] has been stopped
+2021-11-16 10:28:37 pid:13617 Workerman[start.php] restart 
+2021-11-16 10:28:37 pid:13617 Workerman[start.php] is stopping ...
+2021-11-16 10:28:37 pid:13617 Workerman[start.php] stop success
+2021-11-16 10:29:38 pid:13617 Workerman[start.php] stopping ...
+2021-11-16 10:29:38 pid:13617 Workerman[start.php] has been stopped
+2021-11-16 10:31:40 pid:14022 Workerman[start.php] restart 
+2021-11-16 10:31:40 pid:14022 Workerman[start.php] is stopping ...
+2021-11-16 10:31:40 pid:14022 Workerman[start.php] stop success
+2021-11-16 10:34:16 pid:14022 Workerman[start.php] stopping ...
+2021-11-16 10:34:16 pid:14022 Workerman[start.php] has been stopped
+2021-11-16 10:34:16 pid:14392 Workerman[start.php] restart 
+2021-11-16 10:34:16 pid:14392 Workerman[start.php] is stopping ...
+2021-11-16 10:34:16 pid:14392 Workerman[start.php] stop success
+2021-11-16 10:35:33 pid:14392 Workerman[start.php] stopping ...
+2021-11-16 10:35:33 pid:14392 Workerman[start.php] has been stopped
+2021-11-16 10:35:34 pid:14563 Workerman[start.php] restart 
+2021-11-16 10:35:34 pid:14563 Workerman[start.php] is stopping ...
+2021-11-16 10:35:34 pid:14563 Workerman[start.php] stop success
+2021-11-16 10:36:07 pid:14563 Workerman[start.php] stopping ...
+2021-11-16 10:36:07 pid:14563 Workerman[start.php] has been stopped
+2021-11-16 10:36:08 pid:14653 Workerman[start.php] restart 
+2021-11-16 10:36:08 pid:14653 Workerman[start.php] is stopping ...
+2021-11-16 10:36:08 pid:14653 Workerman[start.php] stop success
+2021-11-16 10:36:39 pid:14653 Workerman[start.php] stopping ...
+2021-11-16 10:36:39 pid:14653 Workerman[start.php] has been stopped
+2021-11-16 10:36:39 pid:14716 Workerman[start.php] restart 
+2021-11-16 10:36:39 pid:14716 Workerman[start.php] is stopping ...
+2021-11-16 10:36:39 pid:14716 Workerman[start.php] stop success
+2021-11-16 10:37:13 pid:14716 Workerman[start.php] stopping ...
+2021-11-16 10:37:13 pid:14716 Workerman[start.php] has been stopped
+2021-11-16 10:37:14 pid:14818 Workerman[start.php] restart 
+2021-11-16 10:37:14 pid:14818 Workerman[start.php] is stopping ...
+2021-11-16 10:37:14 pid:14818 Workerman[start.php] stop success
+2021-11-16 10:37:45 pid:14818 Workerman[start.php] stopping ...
+2021-11-16 10:37:45 pid:14818 Workerman[start.php] has been stopped
+2021-11-16 10:37:45 pid:14881 Workerman[start.php] restart 
+2021-11-16 10:37:45 pid:14881 Workerman[start.php] is stopping ...
+2021-11-16 10:37:45 pid:14881 Workerman[start.php] stop success
+2021-11-16 10:38:07 pid:14881 Workerman[start.php] stopping ...
+2021-11-16 10:38:07 pid:14881 Workerman[start.php] has been stopped
+2021-11-16 10:38:55 pid:15042 Workerman[start.php] restart 
+2021-11-16 10:38:55 pid:15042 Workerman[start.php] is stopping ...
+2021-11-16 10:38:55 pid:15042 Workerman[start.php] stop success
+2021-11-16 10:39:04 pid:15042 Workerman[start.php] stopping ...
+2021-11-16 10:39:04 pid:15042 Workerman[start.php] has been stopped
+2021-11-16 10:39:10 pid:15091 Workerman[start.php] restart 
+2021-11-16 10:39:10 pid:15091 Workerman[start.php] is stopping ...
+2021-11-16 10:39:10 pid:15091 Workerman[start.php] stop success
+2021-11-16 10:40:00 pid:15091 Workerman[start.php] stopping ...
+2021-11-16 10:40:00 pid:15091 Workerman[start.php] has been stopped
+2021-11-16 10:40:05 pid:15220 Workerman[start.php] restart 
+2021-11-16 10:40:05 pid:15220 Workerman[start.php] is stopping ...
+2021-11-16 10:40:05 pid:15220 Workerman[start.php] stop success
+2021-11-16 10:40:50 pid:15220 Workerman[start.php] stopping ...
+2021-11-16 10:40:50 pid:15220 Workerman[start.php] has been stopped
+2021-11-16 10:40:51 pid:15320 Workerman[start.php] restart 
+2021-11-16 10:40:51 pid:15320 Workerman[start.php] is stopping ...
+2021-11-16 10:40:51 pid:15320 Workerman[start.php] stop success
+2021-11-16 10:41:26 pid:15320 Workerman[start.php] stopping ...
+2021-11-16 10:41:26 pid:15320 Workerman[start.php] has been stopped
+2021-11-16 10:41:26 pid:15412 Workerman[start.php] restart 
+2021-11-16 10:41:26 pid:15412 Workerman[start.php] is stopping ...
+2021-11-16 10:41:26 pid:15412 Workerman[start.php] stop success
+2021-11-16 10:41:55 pid:15412 Workerman[start.php] stopping ...
+2021-11-16 10:41:55 pid:15412 Workerman[start.php] has been stopped
+2021-11-16 10:41:55 pid:15471 Workerman[start.php] restart 
+2021-11-16 10:41:55 pid:15471 Workerman[start.php] is stopping ...
+2021-11-16 10:41:55 pid:15471 Workerman[start.php] stop success
+2021-11-16 10:42:38 pid:15471 Workerman[start.php] stopping ...
+2021-11-16 10:42:38 pid:15471 Workerman[start.php] has been stopped
+2021-11-16 10:42:38 pid:15583 Workerman[start.php] restart 
+2021-11-16 10:42:38 pid:15583 Workerman[start.php] is stopping ...
+2021-11-16 10:42:38 pid:15583 Workerman[start.php] stop success
+2021-11-16 10:43:14 pid:15583 Workerman[start.php] stopping ...
+2021-11-16 10:43:14 pid:15583 Workerman[start.php] has been stopped
+2021-11-16 10:43:15 pid:15677 Workerman[start.php] restart 
+2021-11-16 10:43:15 pid:15677 Workerman[start.php] is stopping ...
+2021-11-16 10:43:15 pid:15677 Workerman[start.php] stop success
+2021-11-16 10:43:51 pid:15677 Workerman[start.php] stopping ...
+2021-11-16 10:43:51 pid:15677 Workerman[start.php] has been stopped
+2021-11-16 10:43:52 pid:15756 Workerman[start.php] restart 
+2021-11-16 10:43:52 pid:15756 Workerman[start.php] is stopping ...
+2021-11-16 10:43:52 pid:15756 Workerman[start.php] stop success
+2021-11-16 10:44:15 pid:15756 Workerman[start.php] stopping ...
+2021-11-16 10:44:15 pid:15756 Workerman[start.php] has been stopped
+2021-11-16 10:44:15 pid:15867 Workerman[start.php] restart 
+2021-11-16 10:44:15 pid:15867 Workerman[start.php] is stopping ...
+2021-11-16 10:44:15 pid:15867 Workerman[start.php] stop success
+2021-11-16 10:44:39 pid:15867 Workerman[start.php] stopping ...
+2021-11-16 10:44:39 pid:15867 Workerman[start.php] has been stopped
+2021-11-16 11:00:37 pid:18048 Workerman[start.php] restart 
+2021-11-16 11:00:37 pid:18048 Workerman[start.php] is stopping ...
+2021-11-16 11:00:37 pid:18048 Workerman[start.php] stop success
+2021-11-16 11:01:30 pid:18048 Workerman[start.php] stopping ...
+2021-11-16 11:01:30 pid:18048 Workerman[start.php] has been stopped
+2021-11-16 11:01:31 pid:18194 Workerman[start.php] restart 
+2021-11-16 11:01:31 pid:18194 Workerman[start.php] is stopping ...
+2021-11-16 11:01:31 pid:18194 Workerman[start.php] stop success
+2021-11-16 11:01:54 pid:18194 Workerman[start.php] stopping ...
+2021-11-16 11:01:54 pid:18194 Workerman[start.php] has been stopped
+2021-11-16 11:01:55 pid:18249 Workerman[start.php] restart 
+2021-11-16 11:01:55 pid:18249 Workerman[start.php] is stopping ...
+2021-11-16 11:01:55 pid:18249 Workerman[start.php] stop success
+2021-11-16 11:02:17 pid:18249 Workerman[start.php] stopping ...
+2021-11-16 11:02:17 pid:18249 Workerman[start.php] has been stopped
+2021-11-16 11:02:18 pid:18317 Workerman[start.php] restart 
+2021-11-16 11:02:18 pid:18317 Workerman[start.php] is stopping ...
+2021-11-16 11:02:18 pid:18317 Workerman[start.php] stop success
+2021-11-16 11:05:04 pid:18317 Workerman[start.php] stopping ...
+2021-11-16 11:05:04 pid:18317 Workerman[start.php] has been stopped
+2021-11-16 11:09:45 pid:19327 Workerman[start.php] restart 
+2021-11-16 11:09:45 pid:19327 Workerman[start.php] is stopping ...
+2021-11-16 11:09:45 pid:19327 Workerman[start.php] stop success
+2021-11-16 11:16:38 pid:19327 Workerman[start.php] stopping ...
+2021-11-16 11:16:38 pid:19327 Workerman[start.php] has been stopped
+2021-11-16 11:16:39 pid:20270 Workerman[start.php] restart 
+2021-11-16 11:16:39 pid:20270 Workerman[start.php] is stopping ...
+2021-11-16 11:16:39 pid:20270 Workerman[start.php] stop success
+2021-11-16 11:25:54 pid:20270 Workerman[start.php] stopping ...
+2021-11-16 11:25:54 pid:20270 Workerman[start.php] has been stopped
+2021-11-16 11:25:55 pid:21501 Workerman[start.php] restart 
+2021-11-16 11:25:55 pid:21501 Workerman[start.php] is stopping ...
+2021-11-16 11:25:55 pid:21501 Workerman[start.php] stop success
+2021-11-16 11:30:35 pid:21501 Workerman[start.php] stopping ...
+2021-11-16 11:30:35 pid:21501 Workerman[start.php] has been stopped
+2021-11-16 11:30:36 pid:22138 Workerman[start.php] restart 
+2021-11-16 11:30:36 pid:22138 Workerman[start.php] is stopping ...
+2021-11-16 11:30:36 pid:22138 Workerman[start.php] stop success
+2021-11-16 11:33:34 pid:22138 Workerman[start.php] stopping ...
+2021-11-16 11:33:34 pid:22138 Workerman[start.php] has been stopped
+2021-11-16 11:33:34 pid:22545 Workerman[start.php] restart 
+2021-11-16 11:33:34 pid:22545 Workerman[start.php] is stopping ...
+2021-11-16 11:33:34 pid:22545 Workerman[start.php] stop success
+2021-11-16 11:34:22 pid:22545 Workerman[start.php] stopping ...
+2021-11-16 11:34:22 pid:22545 Workerman[start.php] has been stopped
+2021-11-16 11:34:22 pid:22660 Workerman[start.php] restart 
+2021-11-16 11:34:22 pid:22660 Workerman[start.php] is stopping ...
+2021-11-16 11:34:22 pid:22660 Workerman[start.php] stop success
+2021-11-16 11:35:50 pid:22660 Workerman[start.php] stopping ...
+2021-11-16 11:35:50 pid:22660 Workerman[start.php] has been stopped
+2021-11-16 11:35:52 pid:22867 Workerman[start.php] restart 
+2021-11-16 11:35:52 pid:22867 Workerman[start.php] is stopping ...
+2021-11-16 11:35:52 pid:22867 Workerman[start.php] stop success
+2021-11-16 11:35:58 pid:22867 Workerman[start.php] stopping ...
+2021-11-16 11:35:58 pid:22867 Workerman[start.php] has been stopped
+2021-11-16 11:35:59 pid:22880 Workerman[start.php] restart 
+2021-11-16 11:35:59 pid:22880 Workerman[start.php] is stopping ...
+2021-11-16 11:35:59 pid:22880 Workerman[start.php] stop success
+2021-11-16 11:53:16 pid:22880 Workerman[start.php] stopping ...
+2021-11-16 11:53:16 pid:22880 Workerman[start.php] has been stopped
+2021-11-16 11:53:18 pid:25204 Workerman[start.php] restart 
+2021-11-16 11:53:18 pid:25204 Workerman[start.php] is stopping ...
+2021-11-16 11:53:18 pid:25204 Workerman[start.php] stop success
+2021-11-16 15:24:08 pid:25204 Workerman[start.php] stopping ...
+2021-11-16 15:24:08 pid:25204 Workerman[start.php] has been stopped
+2021-11-16 15:24:09 pid:40362 Workerman[start.php] restart 
+2021-11-16 15:24:09 pid:40362 Workerman[start.php] is stopping ...
+2021-11-16 15:24:09 pid:40362 Workerman[start.php] stop success
+2021-11-16 15:29:58 pid:40362 Workerman[start.php] stopping ...
+2021-11-16 15:29:58 pid:40362 Workerman[start.php] has been stopped
+2021-11-16 15:29:59 pid:40787 Workerman[start.php] restart 
+2021-11-16 15:29:59 pid:40787 Workerman[start.php] is stopping ...
+2021-11-16 15:29:59 pid:40787 Workerman[start.php] stop success
+2021-11-16 15:33:20 pid:40787 Workerman[start.php] stopping ...
+2021-11-16 15:33:20 pid:40787 Workerman[start.php] has been stopped
+2021-11-16 15:33:20 pid:41066 Workerman[start.php] restart 
+2021-11-16 15:33:20 pid:41066 Workerman[start.php] is stopping ...
+2021-11-16 15:33:20 pid:41066 Workerman[start.php] stop success
+2021-11-16 15:36:35 pid:41066 Workerman[start.php] stopping ...
+2021-11-16 15:36:35 pid:41066 Workerman[start.php] has been stopped
+2021-11-16 15:36:35 pid:41309 Workerman[start.php] restart 
+2021-11-16 15:36:35 pid:41309 Workerman[start.php] is stopping ...
+2021-11-16 15:36:35 pid:41309 Workerman[start.php] stop success
+2021-11-16 15:38:27 pid:41309 Workerman[start.php] stopping ...
+2021-11-16 15:38:27 pid:41309 Workerman[start.php] has been stopped
+2021-11-16 15:38:27 pid:41457 Workerman[start.php] restart 
+2021-11-16 15:38:27 pid:41457 Workerman[start.php] is stopping ...
+2021-11-16 15:38:27 pid:41457 Workerman[start.php] stop success
+2021-11-16 15:44:41 pid:41457 Workerman[start.php] stopping ...
+2021-11-16 15:44:41 pid:41457 Workerman[start.php] has been stopped
+2021-11-16 15:44:42 pid:41937 Workerman[start.php] restart 
+2021-11-16 15:44:42 pid:41937 Workerman[start.php] is stopping ...
+2021-11-16 15:44:42 pid:41937 Workerman[start.php] stop success
+2021-11-16 15:45:45 pid:41937 Workerman[start.php] stopping ...
+2021-11-16 15:45:45 pid:41937 Workerman[start.php] has been stopped
+2021-11-16 15:45:46 pid:42021 Workerman[start.php] restart 
+2021-11-16 15:45:46 pid:42021 Workerman[start.php] is stopping ...
+2021-11-16 15:45:46 pid:42021 Workerman[start.php] stop success
+2021-11-16 15:47:02 pid:42021 Workerman[start.php] stopping ...
+2021-11-16 15:47:02 pid:42021 Workerman[start.php] has been stopped
+2021-11-16 15:47:02 pid:42133 Workerman[start.php] restart 
+2021-11-16 15:47:02 pid:42133 Workerman[start.php] is stopping ...
+2021-11-16 15:47:02 pid:42133 Workerman[start.php] stop success
+2021-11-16 15:49:11 pid:42133 Workerman[start.php] stopping ...
+2021-11-16 15:49:11 pid:42133 Workerman[start.php] has been stopped
+2021-11-16 15:49:11 pid:42297 Workerman[start.php] restart 
+2021-11-16 15:49:11 pid:42297 Workerman[start.php] is stopping ...
+2021-11-16 15:49:11 pid:42297 Workerman[start.php] stop success
+2021-11-16 15:50:29 pid:42297 Workerman[start.php] stopping ...
+2021-11-16 15:50:29 pid:42297 Workerman[start.php] has been stopped
+2021-11-16 15:50:29 pid:42401 Workerman[start.php] restart 
+2021-11-16 15:50:29 pid:42401 Workerman[start.php] is stopping ...
+2021-11-16 15:50:29 pid:42401 Workerman[start.php] stop success
+2021-11-16 15:51:00 pid:42401 Workerman[start.php] stopping ...
+2021-11-16 15:51:00 pid:42401 Workerman[start.php] has been stopped
+2021-11-16 15:51:00 pid:42438 Workerman[start.php] restart 
+2021-11-16 15:51:00 pid:42438 Workerman[start.php] is stopping ...
+2021-11-16 15:51:00 pid:42438 Workerman[start.php] stop success
+2021-11-16 15:51:54 pid:42438 Workerman[start.php] stopping ...
+2021-11-16 15:51:54 pid:42438 Workerman[start.php] has been stopped
+2021-11-16 15:51:54 pid:42512 Workerman[start.php] restart 
+2021-11-16 15:51:54 pid:42512 Workerman[start.php] is stopping ...
+2021-11-16 15:51:54 pid:42512 Workerman[start.php] stop success
+2021-11-16 16:08:08 pid:42512 Workerman[start.php] stopping ...
+2021-11-16 16:08:08 pid:42512 Workerman[start.php] has been stopped
+2021-11-16 16:08:08 pid:43770 Workerman[start.php] restart 
+2021-11-16 16:08:08 pid:43770 Workerman[start.php] is stopping ...
+2021-11-16 16:08:08 pid:43770 Workerman[start.php] stop success
+2021-11-16 16:08:36 pid:43770 Workerman[start.php] stopping ...
+2021-11-16 16:08:36 pid:43770 Workerman[start.php] has been stopped
+2021-11-16 16:08:36 pid:43803 Workerman[start.php] restart 
+2021-11-16 16:08:36 pid:43803 Workerman[start.php] is stopping ...
+2021-11-16 16:08:36 pid:43803 Workerman[start.php] stop success
+2021-11-16 16:09:29 pid:43803 Workerman[start.php] stopping ...
+2021-11-16 16:09:29 pid:43803 Workerman[start.php] has been stopped
+2021-11-16 16:09:29 pid:43877 Workerman[start.php] restart 
+2021-11-16 16:09:29 pid:43877 Workerman[start.php] is stopping ...
+2021-11-16 16:09:29 pid:43877 Workerman[start.php] stop success
+2021-11-16 16:10:06 pid:43877 Workerman[start.php] stopping ...
+2021-11-16 16:10:06 pid:43877 Workerman[start.php] has been stopped
+2021-11-16 16:10:07 pid:43940 Workerman[start.php] restart 
+2021-11-16 16:10:07 pid:43940 Workerman[start.php] is stopping ...
+2021-11-16 16:10:07 pid:43940 Workerman[start.php] stop success
+2021-11-16 16:10:39 pid:43940 Workerman[start.php] stopping ...
+2021-11-16 16:10:39 pid:43940 Workerman[start.php] has been stopped
+2021-11-16 16:10:41 pid:43979 Workerman[start.php] restart 
+2021-11-16 16:10:41 pid:43979 Workerman[start.php] is stopping ...
+2021-11-16 16:10:41 pid:43979 Workerman[start.php] stop success
+2021-11-16 16:11:51 pid:43979 Workerman[start.php] stopping ...
+2021-11-16 16:11:51 pid:43979 Workerman[start.php] has been stopped
+2021-11-16 16:11:52 pid:44071 Workerman[start.php] restart 
+2021-11-16 16:11:52 pid:44071 Workerman[start.php] is stopping ...
+2021-11-16 16:11:52 pid:44071 Workerman[start.php] stop success
+2021-11-16 16:16:51 pid:44071 Workerman[start.php] stopping ...
+2021-11-16 16:16:51 pid:44071 Workerman[start.php] has been stopped
+2021-11-16 16:16:52 pid:44456 Workerman[start.php] restart 
+2021-11-16 16:16:52 pid:44456 Workerman[start.php] is stopping ...
+2021-11-16 16:16:52 pid:44456 Workerman[start.php] stop success
+2021-11-16 16:21:50 pid:44456 Workerman[start.php] stopping ...
+2021-11-16 16:21:50 pid:44456 Workerman[start.php] has been stopped
+2021-11-16 16:21:51 pid:44840 Workerman[start.php] restart 
+2021-11-16 16:21:51 pid:44840 Workerman[start.php] is stopping ...
+2021-11-16 16:21:51 pid:44840 Workerman[start.php] stop success
+2021-11-16 16:27:52 pid:44840 Workerman[start.php] stopping ...
+2021-11-16 16:27:52 pid:44840 Workerman[start.php] has been stopped
+2021-11-16 16:27:53 pid:45304 Workerman[start.php] restart 
+2021-11-16 16:27:53 pid:45304 Workerman[start.php] is stopping ...
+2021-11-16 16:27:53 pid:45304 Workerman[start.php] stop success
+2021-11-16 16:45:12 pid:45304 Workerman[start.php] stopping ...
+2021-11-16 16:45:12 pid:45304 Workerman[start.php] has been stopped
+2021-11-16 16:45:12 pid:46628 Workerman[start.php] restart 
+2021-11-16 16:45:12 pid:46628 Workerman[start.php] is stopping ...
+2021-11-16 16:45:12 pid:46628 Workerman[start.php] stop success
+2021-11-16 16:51:27 pid:46628 Workerman[start.php] stopping ...
+2021-11-16 16:51:27 pid:46628 Workerman[start.php] has been stopped
+2021-11-16 16:51:27 pid:47099 Workerman[start.php] restart 
+2021-11-16 16:51:27 pid:47099 Workerman[start.php] is stopping ...
+2021-11-16 16:51:27 pid:47099 Workerman[start.php] stop success
+2021-11-16 16:52:11 pid:47099 Workerman[start.php] stopping ...
+2021-11-16 16:52:11 pid:47099 Workerman[start.php] has been stopped
+2021-11-16 16:52:12 pid:47165 Workerman[start.php] restart 
+2021-11-16 16:52:12 pid:47165 Workerman[start.php] is stopping ...
+2021-11-16 16:52:12 pid:47165 Workerman[start.php] stop success
+2021-11-16 16:53:29 pid:47165 Workerman[start.php] stopping ...
+2021-11-16 16:53:29 pid:47165 Workerman[start.php] has been stopped
+2021-11-16 16:53:29 pid:47273 Workerman[start.php] restart 
+2021-11-16 16:53:29 pid:47273 Workerman[start.php] is stopping ...
+2021-11-16 16:53:29 pid:47273 Workerman[start.php] stop success
+2021-11-16 16:53:32 pid:47273 Workerman[start.php] stopping ...
+2021-11-16 16:53:32 pid:47273 Workerman[start.php] has been stopped
+2021-11-16 16:53:33 pid:47284 Workerman[start.php] restart 
+2021-11-16 16:53:33 pid:47284 Workerman[start.php] is stopping ...
+2021-11-16 16:53:33 pid:47284 Workerman[start.php] stop success
+2021-11-16 16:55:30 pid:47284 Workerman[start.php] stopping ...
+2021-11-16 16:55:30 pid:47284 Workerman[start.php] has been stopped
+2021-11-16 16:55:31 pid:47436 Workerman[start.php] restart 
+2021-11-16 16:55:31 pid:47436 Workerman[start.php] is stopping ...
+2021-11-16 16:55:31 pid:47436 Workerman[start.php] stop success
+2021-11-16 16:57:13 pid:47436 Workerman[start.php] stopping ...
+2021-11-16 16:57:13 pid:47436 Workerman[start.php] has been stopped
+2021-11-16 16:57:14 pid:47573 Workerman[start.php] restart 
+2021-11-16 16:57:14 pid:47573 Workerman[start.php] is stopping ...
+2021-11-16 16:57:14 pid:47573 Workerman[start.php] stop success
+2021-11-16 16:59:01 pid:47573 Workerman[start.php] stopping ...
+2021-11-16 16:59:01 pid:47573 Workerman[start.php] has been stopped
+2021-11-16 16:59:01 pid:47718 Workerman[start.php] restart 
+2021-11-16 16:59:01 pid:47718 Workerman[start.php] is stopping ...
+2021-11-16 16:59:01 pid:47718 Workerman[start.php] stop success
+2021-11-16 17:10:07 pid:47718 Workerman[start.php] stopping ...
+2021-11-16 17:10:07 pid:47718 Workerman[start.php] has been stopped
+2021-11-16 17:10:12 pid:48576 Workerman[start.php] restart 
+2021-11-16 17:10:12 pid:48576 Workerman[start.php] is stopping ...
+2021-11-16 17:10:12 pid:48576 Workerman[start.php] stop success
+2021-11-16 17:10:26 pid:48576 Workerman[start.php] stopping ...
+2021-11-16 17:10:26 pid:48576 Workerman[start.php] has been stopped
+2021-11-16 17:10:27 pid:48599 Workerman[start.php] restart 
+2021-11-16 17:10:27 pid:48599 Workerman[start.php] is stopping ...
+2021-11-16 17:10:27 pid:48599 Workerman[start.php] stop success
+2021-11-16 17:10:43 pid:48599 Workerman[start.php] stopping ...
+2021-11-16 17:10:43 pid:48599 Workerman[start.php] has been stopped
+2021-11-16 17:10:43 pid:48622 Workerman[start.php] restart 
+2021-11-16 17:10:43 pid:48622 Workerman[start.php] is stopping ...
+2021-11-16 17:10:43 pid:48622 Workerman[start.php] stop success
+2021-11-16 17:10:51 pid:48622 Workerman[start.php] stopping ...
+2021-11-16 17:10:51 pid:48622 Workerman[start.php] has been stopped
+2021-11-16 17:11:02 pid:48663 Workerman[start.php] restart 
+2021-11-16 17:11:02 pid:48663 Workerman[start.php] is stopping ...
+2021-11-16 17:11:02 pid:48663 Workerman[start.php] stop success
+2021-11-16 17:11:21 pid:48663 Workerman[start.php] stopping ...
+2021-11-16 17:11:21 pid:48663 Workerman[start.php] has been stopped
+2021-11-16 17:11:22 pid:48688 Workerman[start.php] restart 
+2021-11-16 17:11:22 pid:48688 Workerman[start.php] is stopping ...
+2021-11-16 17:11:22 pid:48688 Workerman[start.php] stop success
+2021-11-16 17:11:36 pid:48688 Workerman[start.php] stopping ...
+2021-11-16 17:11:36 pid:48688 Workerman[start.php] has been stopped
+2021-11-16 17:12:11 pid:48759 Workerman[start.php] restart 
+2021-11-16 17:12:11 pid:48759 Workerman[start.php] is stopping ...
+2021-11-16 17:12:11 pid:48759 Workerman[start.php] stop success
+2021-11-16 17:14:01 pid:48759 Workerman[start.php] stopping ...
+2021-11-16 17:14:01 pid:48759 Workerman[start.php] has been stopped
+2021-11-16 17:14:01 pid:48901 Workerman[start.php] restart 
+2021-11-16 17:14:01 pid:48901 Workerman[start.php] is stopping ...
+2021-11-16 17:14:01 pid:48901 Workerman[start.php] stop success
+2021-11-16 17:20:54 pid:48901 Workerman[start.php] stopping ...
+2021-11-16 17:20:54 pid:48901 Workerman[start.php] has been stopped
+2021-11-16 17:20:54 pid:49422 Workerman[start.php] restart 
+2021-11-16 17:20:54 pid:49422 Workerman[start.php] is stopping ...
+2021-11-16 17:20:54 pid:49422 Workerman[start.php] stop success
+2021-11-16 17:26:52 pid:49422 Workerman[start.php] stopping ...
+2021-11-16 17:26:52 pid:49422 Workerman[start.php] has been stopped
+2021-11-16 17:26:52 pid:49880 Workerman[start.php] restart 
+2021-11-16 17:26:52 pid:49880 Workerman[start.php] is stopping ...
+2021-11-16 17:26:52 pid:49880 Workerman[start.php] stop success
+2021-11-16 17:28:11 pid:49880 Workerman[start.php] stopping ...
+2021-11-16 17:28:11 pid:49880 Workerman[start.php] has been stopped
+2021-11-16 17:28:12 pid:49997 Workerman[start.php] restart 
+2021-11-16 17:28:12 pid:49997 Workerman[start.php] is stopping ...
+2021-11-16 17:28:12 pid:49997 Workerman[start.php] stop success
+2021-11-16 17:30:02 pid:49997 Workerman[start.php] stopping ...
+2021-11-16 17:30:02 pid:49997 Workerman[start.php] has been stopped
+2021-11-16 17:30:03 pid:50145 Workerman[start.php] restart 
+2021-11-16 17:30:03 pid:50145 Workerman[start.php] is stopping ...
+2021-11-16 17:30:03 pid:50145 Workerman[start.php] stop success
+2021-11-16 17:31:19 pid:50145 Workerman[start.php] stopping ...
+2021-11-16 17:31:19 pid:50145 Workerman[start.php] has been stopped
+2021-11-16 17:31:20 pid:50243 Workerman[start.php] restart 
+2021-11-16 17:31:20 pid:50243 Workerman[start.php] is stopping ...
+2021-11-16 17:31:20 pid:50243 Workerman[start.php] stop success
+2021-11-16 17:32:35 pid:50243 Workerman[start.php] stopping ...
+2021-11-16 17:32:35 pid:50243 Workerman[start.php] has been stopped
+2021-11-16 17:32:35 pid:50337 Workerman[start.php] restart 
+2021-11-16 17:32:35 pid:50337 Workerman[start.php] is stopping ...
+2021-11-16 17:32:35 pid:50337 Workerman[start.php] stop success
+2021-11-16 17:34:18 pid:50337 Workerman[start.php] stopping ...
+2021-11-16 17:34:18 pid:50337 Workerman[start.php] has been stopped
+2021-11-16 17:34:18 pid:50487 Workerman[start.php] restart 
+2021-11-16 17:34:18 pid:50487 Workerman[start.php] is stopping ...
+2021-11-16 17:34:18 pid:50487 Workerman[start.php] stop success
+2021-11-16 17:36:22 pid:50487 Workerman[start.php] stopping ...
+2021-11-16 17:36:22 pid:50487 Workerman[start.php] has been stopped
+2021-11-16 17:36:22 pid:50646 Workerman[start.php] restart 
+2021-11-16 17:36:22 pid:50646 Workerman[start.php] is stopping ...
+2021-11-16 17:36:22 pid:50646 Workerman[start.php] stop success
+2021-11-16 17:37:27 pid:50646 Workerman[start.php] stopping ...
+2021-11-16 17:37:27 pid:50646 Workerman[start.php] has been stopped
+2021-11-16 17:37:27 pid:50730 Workerman[start.php] restart 
+2021-11-16 17:37:27 pid:50730 Workerman[start.php] is stopping ...
+2021-11-16 17:37:27 pid:50730 Workerman[start.php] stop success
+2021-11-16 17:39:31 pid:50730 Workerman[start.php] stopping ...
+2021-11-16 17:39:31 pid:50730 Workerman[start.php] has been stopped
+2021-11-16 17:39:31 pid:50890 Workerman[start.php] restart 
+2021-11-16 17:39:31 pid:50890 Workerman[start.php] is stopping ...
+2021-11-16 17:39:31 pid:50890 Workerman[start.php] stop success
+2021-11-16 17:40:44 pid:50890 Workerman[start.php] stopping ...
+2021-11-16 17:40:44 pid:50890 Workerman[start.php] has been stopped
+2021-11-16 17:40:44 pid:50988 Workerman[start.php] restart 
+2021-11-16 17:40:44 pid:50988 Workerman[start.php] is stopping ...
+2021-11-16 17:40:44 pid:50988 Workerman[start.php] stop success
+2021-11-16 17:41:13 pid:50988 Workerman[start.php] stopping ...
+2021-11-16 17:41:14 pid:50988 Workerman[start.php] has been stopped
+2021-11-16 17:41:15 pid:51040 Workerman[start.php] restart 
+2021-11-16 17:41:15 pid:51040 Workerman[start.php] is stopping ...
+2021-11-16 17:41:15 pid:51040 Workerman[start.php] stop success
+2021-11-16 17:44:10 pid:51040 Workerman[start.php] stopping ...
+2021-11-16 17:44:10 pid:51040 Workerman[start.php] has been stopped
+2021-11-16 17:54:39 pid:52058 Workerman[start.php] restart 
+2021-11-16 17:54:39 pid:52058 Workerman[start.php] is stopping ...
+2021-11-16 17:54:39 pid:52058 Workerman[start.php] stop success
+2021-11-18 10:06:07 pid:6596 Workerman[start.php] restart 
+2021-11-18 10:06:07 pid:6596 Workerman[start.php] is stopping ...
+2021-11-18 10:06:07 pid:6596 Workerman[start.php] stop success
+2021-11-18 10:06:08 pid:6596 Workerman[start.php] stopping ...
+2021-11-18 10:06:08 pid:6596 worker[chatGateway:6607] exit with status 64000
+2021-11-18 10:06:08 pid:6596 worker[chatGateway:6604] exit with status 64000
+2021-11-18 10:06:08 pid:6596 worker[chatGateway:6606] exit with status 64000
+2021-11-18 10:06:08 pid:6596 worker[chatGateway:6605] exit with status 64000
+2021-11-18 10:06:08 pid:6596 Workerman[start.php] has been stopped
+2021-11-18 10:09:06 pid:6834 Workerman[start.php] restart 
+2021-11-18 10:09:06 pid:6834 Workerman[start.php] is stopping ...
+2021-11-18 10:09:06 pid:6834 Workerman[start.php] stop success
+2021-11-18 10:09:06 pid:6834 Workerman[start.php] stopping ...
+2021-11-18 10:09:06 pid:6834 worker[chatGateway:6845] exit with status 64000
+2021-11-18 10:09:06 pid:6834 worker[chatGateway:6842] exit with status 64000
+2021-11-18 10:09:06 pid:6834 worker[chatGateway:6843] exit with status 64000
+2021-11-18 10:09:06 pid:6834 worker[chatGateway:6844] exit with status 64000
+2021-11-18 10:09:06 pid:6834 Workerman[start.php] has been stopped
+2021-11-18 10:09:42 pid:6886 Workerman[start.php] restart 
+2021-11-18 10:09:42 pid:6886 Workerman[start.php] is stopping ...
+2021-11-18 10:09:42 pid:6886 Workerman[start.php] stop success
+2021-11-18 10:12:47 pid:6886 Workerman[start.php] stopping ...
+2021-11-18 10:12:47 pid:6886 Workerman[start.php] has been stopped
+2021-11-18 10:23:30 pid:8029 Workerman[start.php] restart 
+2021-11-18 10:23:30 pid:8029 Workerman[start.php] is stopping ...
+2021-11-18 10:23:30 pid:8029 Workerman[start.php] stop success
+2021-11-18 10:23:32 pid:8029 Workerman[start.php] stopping ...
+2021-11-18 10:23:32 pid:8029 Workerman[start.php] has been stopped
+2021-11-18 10:42:13 pid:9484 Workerman[start.php] restart 
+2021-11-18 10:42:13 pid:9484 Workerman[start.php] is stopping ...
+2021-11-18 10:42:13 pid:9484 Workerman[start.php] stop success
+2021-11-18 10:42:14 pid:9491 Error: Class 'Niu' not found in /www/wwwroot/yh/gateway/Applications/chat/Events.php:31
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/BusinessWorker.php(226): is_callable('Events::onWorke...')
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1542): GatewayWorker\BusinessWorker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#11 {main}
+2021-11-18 10:42:14 pid:9484 worker[ChatBusinessWorker:9491] exit with status 64000
+2021-11-18 10:42:15 pid:9484 Workerman[start.php] stopping ...
+2021-11-18 10:42:15 pid:9499 Error: Class 'Niu' not found in /www/wwwroot/yh/gateway/Applications/chat/Events.php:31
+Stack trace:
+#0 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/BusinessWorker.php(226): is_callable('Events::onWorke...')
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1542): GatewayWorker\BusinessWorker->run()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1679): Workerman\Worker::forkWorkers()
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1628): Workerman\Worker::monitorWorkersForLinux()
+#11 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(544): Workerman\Worker::monitorWorkers()
+#12 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#13 {main}
+2021-11-18 10:42:15 pid:9484 worker[ChatBusinessWorker:9499] exit with status 64000
+2021-11-18 10:42:15 pid:9484 Workerman[start.php] has been stopped
+2021-11-18 10:45:14 pid:9719 Workerman[start.php] restart 
+2021-11-18 10:45:14 pid:9719 Workerman[start.php] is stopping ...
+2021-11-18 10:45:14 pid:9719 Workerman[start.php] stop success
+2021-11-18 10:46:01 pid:9719 Workerman[start.php] stopping ...
+2021-11-18 10:46:01 pid:9719 Workerman[start.php] has been stopped
+2021-11-18 10:46:01 pid:9801 Workerman[start.php] restart 
+2021-11-18 10:46:01 pid:9801 Workerman[start.php] is stopping ...
+2021-11-18 10:46:01 pid:9801 Workerman[start.php] stop success
+2021-11-18 10:47:31 pid:9801 Workerman[start.php] stopping ...
+2021-11-18 10:47:31 pid:9801 Workerman[start.php] has been stopped
+2021-11-18 10:47:32 pid:9922 Workerman[start.php] restart 
+2021-11-18 10:47:32 pid:9922 Workerman[start.php] is stopping ...
+2021-11-18 10:47:32 pid:9922 Workerman[start.php] stop success
+2021-11-18 10:48:03 pid:9922 Workerman[start.php] stopping ...
+2021-11-18 10:48:03 pid:9922 Workerman[start.php] has been stopped
+2021-11-18 10:48:04 pid:9979 Workerman[start.php] restart 
+2021-11-18 10:48:04 pid:9979 Workerman[start.php] is stopping ...
+2021-11-18 10:48:04 pid:9979 Workerman[start.php] stop success
+2021-11-18 10:49:17 pid:9979 Workerman[start.php] stopping ...
+2021-11-18 10:49:17 pid:9979 Workerman[start.php] has been stopped
+2021-11-18 10:49:17 pid:10084 Workerman[start.php] restart 
+2021-11-18 10:49:17 pid:10084 Workerman[start.php] is stopping ...
+2021-11-18 10:49:17 pid:10084 Workerman[start.php] stop success
+2021-11-18 10:49:32 pid:10084 Workerman[start.php] stopping ...
+2021-11-18 10:49:32 pid:10084 Workerman[start.php] has been stopped
+2021-11-18 10:49:33 pid:10111 Workerman[start.php] restart 
+2021-11-18 10:49:33 pid:10111 Workerman[start.php] is stopping ...
+2021-11-18 10:49:33 pid:10111 Workerman[start.php] stop success
+2021-11-18 10:52:46 pid:10111 Workerman[start.php] stopping ...
+2021-11-18 10:52:46 pid:10111 Workerman[start.php] has been stopped
+2021-11-18 10:52:47 pid:10362 Workerman[start.php] restart 
+2021-11-18 10:52:47 pid:10362 Workerman[start.php] is stopping ...
+2021-11-18 10:52:47 pid:10362 Workerman[start.php] stop success
+2021-11-18 10:53:25 pid:10362 Workerman[start.php] stopping ...
+2021-11-18 10:53:25 pid:10362 Workerman[start.php] has been stopped
+2021-11-18 10:53:25 pid:10428 Workerman[start.php] restart 
+2021-11-18 10:53:25 pid:10428 Workerman[start.php] is stopping ...
+2021-11-18 10:53:25 pid:10428 Workerman[start.php] stop success
+2021-11-18 10:53:46 pid:10428 Workerman[start.php] stopping ...
+2021-11-18 10:53:46 pid:10428 Workerman[start.php] has been stopped
+2021-11-18 10:53:47 pid:10461 Workerman[start.php] restart 
+2021-11-18 10:53:47 pid:10461 Workerman[start.php] is stopping ...
+2021-11-18 10:53:47 pid:10461 Workerman[start.php] stop success
+2021-11-18 11:05:36 pid:10461 Workerman[start.php] stopping ...
+2021-11-18 11:05:36 pid:10461 Workerman[start.php] has been stopped
+2021-11-18 11:05:36 pid:11387 Workerman[start.php] restart 
+2021-11-18 11:05:36 pid:11387 Workerman[start.php] is stopping ...
+2021-11-18 11:05:36 pid:11387 Workerman[start.php] stop success
+2021-11-18 11:05:48 pid:11394 Error: Access to undeclared static property: Controller::$db in /www/wwwroot/yh/gateway/Applications/chat/Events.php:147
+Stack trace:
+#0 /www/wwwroot/yh/gateway/Applications/chat/Events.php(135): Controller->register()
+#1 /www/wwwroot/yh/gateway/Applications/chat/Events.php(107): Controller->main('10001', Array)
+#2 [internal function]: Events::onMessage('7f0000010f3c000...', '{ "process":"10...')
+#3 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010f3c000...', '{ "process":"10...')
+#4 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Connection/TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #55)
+#6 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(2418): Workerman\Events\Select->loop()
+#7 /www/wwwroot/yh/gateway/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1542): GatewayWorker\BusinessWorker->run()
+#9 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#11 /www/wwwroot/yh/gateway/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#12 /www/wwwroot/yh/gateway/start.php(36): Workerman\Worker::runAll()
+#13 {main}
+2021-11-18 11:05:48 pid:11387 worker[ChatBusinessWorker:11394] exit with status 64000
+2021-11-18 11:06:09 pid:11387 Workerman[start.php] stopping ...
+2021-11-18 11:06:09 pid:11387 Workerman[start.php] has been stopped
+2021-11-18 11:06:09 pid:11448 Workerman[start.php] restart 
+2021-11-18 11:06:09 pid:11448 Workerman[start.php] is stopping ...
+2021-11-18 11:06:09 pid:11448 Workerman[start.php] stop success
+2021-11-18 11:06:58 pid:11448 Workerman[start.php] stopping ...
+2021-11-18 11:06:58 pid:11448 Workerman[start.php] has been stopped
+2021-11-18 11:06:59 pid:11509 Workerman[start.php] restart 
+2021-11-18 11:06:59 pid:11509 Workerman[start.php] is stopping ...
+2021-11-18 11:06:59 pid:11509 Workerman[start.php] stop success
+2021-11-18 11:08:16 pid:11509 Workerman[start.php] stopping ...
+2021-11-18 11:08:16 pid:11509 Workerman[start.php] has been stopped
+2021-11-18 11:08:16 pid:11627 Workerman[start.php] restart 
+2021-11-18 11:08:16 pid:11627 Workerman[start.php] is stopping ...
+2021-11-18 11:08:16 pid:11627 Workerman[start.php] stop success
+2021-12-07 06:14:23 pid:4526 Workerman[start.php] start in DEBUG mode
+2021-12-07 06:15:17 pid:4646 Workerman[start.php] start in DEBUG mode
